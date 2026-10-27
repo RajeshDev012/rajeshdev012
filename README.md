@@ -53,7 +53,7 @@
 
 </div>
 
-## 01. whoami
+## 01. who am i
 
 ```typescript
 const Rajesh Debnath = {
